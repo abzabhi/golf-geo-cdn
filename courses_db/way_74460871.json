@@ -1,1 +1,1 @@
-{"holes":{},"polygons":{"type":"FeatureCollection","features":[]},"center":[-76.69939315882354,44.51027303529411],"bounds":null}
+{"holes":{},"polygons":{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"golf":"cart_path"},"geometry":{"type":"LineString","coordinates":[[-76.6953664,44.5085174],[-76.695221,44.5084958]]}}]},"center":[-76.69939315882354,44.51027303529411],"bounds":[[-76.6953664,44.5084958],[-76.695221,44.5085174]]}

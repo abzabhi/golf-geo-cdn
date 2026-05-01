@@ -1,1 +1,1 @@
-{"holes":{},"polygons":{"type":"FeatureCollection","features":[]},"center":[-114.03224344,52.953904120000004],"bounds":null}
+{"holes":{},"polygons":{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"golf":"water_hazard"},"geometry":{"type":"LineString","coordinates":[[-114.0314045,52.9588111],[-114.0306388,52.9592588],[-114.0303878,52.9595641]]}}]},"center":[-114.03224344,52.953904120000004],"bounds":[[-114.0314045,52.9588111],[-114.0303878,52.9595641]]}

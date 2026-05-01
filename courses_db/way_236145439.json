@@ -1,1 +1,1 @@
-{"holes":{},"polygons":{"type":"FeatureCollection","features":[]},"center":[-77.14637515555555,44.03021721111111],"bounds":null}
+{"holes":{},"polygons":{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"golf":"woods"},"geometry":{"type":"Polygon","coordinates":[[[-77.1495319,44.0323664],[-77.1490176,44.033304],[-77.1498122,44.0332859],[-77.1502871,44.0326059],[-77.1495319,44.0323664]]]}}]},"center":[-77.14637515555555,44.03021721111111],"bounds":[[-77.1502871,44.0323664],[-77.1490176,44.033304]]}
